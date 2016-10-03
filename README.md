@@ -1,2 +1,5 @@
 # studious-succotash
-Just another repository
+
+Hello friends,
+
+I am here to share my projects and get some good knowledge.
